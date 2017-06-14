@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>String Practice</title>
+<style>
+#show{
+  width:300px;
+  height:60px;
+  border:3px #cccccc dashed;
+}
+</style>
+</head>
+<body>
+<div id="show"></div>
+<button type="button" onclick="run()">Go</button>
+
+<script>
+function run(){
+  var div = document.getElementById("show");
+  var p = { x:2.3, y:-1.2};
+  var q = {};
+  var side = 1;
+  var square = { upperLeft: { x: p.x, y: p.y },
+                  lowerRight: { x: p.x + side, y: p.y + side}};
+  div.innerHTML = square.lowerRight.x;
+}
+
+alert(f);
+alert(f2);
+
+var f = function(x) { return x+1; }
+function f2(x) { return x+1; }
+
+alert(f(10));
+alert(f2(10));
+
+</script>
+</body>
+</html>
