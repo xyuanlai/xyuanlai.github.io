@@ -80,13 +80,13 @@
   
   
 ## Skills
-### Java、JavaScript、HTML、CSS、MySQL
+Java、JavaScript、HTML、CSS、MySQL
   
   
 ## Certification
-### TOEIC 930
+TOEIC 930
   
   
 ## Contact me
-### 若有任何問題歡迎寄信到 kevin810131@gmail.com 或經由 [臉書](https://www.facebook.com/kevinlaiable)
+若有任何問題歡迎寄信到 kevin810131@gmail.com 或經由 [臉書](https://www.facebook.com/kevinlaiable)
   
