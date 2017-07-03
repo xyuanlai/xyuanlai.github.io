@@ -7,15 +7,15 @@
 
 ## Projects
 **1. 視覺化程式學習網站**
-![](LPO.png)(https://xyuanlai.github.io/LearnProgrammingOnline/)
+![](LPO.jpg)(https://xyuanlai.github.io/LearnProgrammingOnline/)
 **2. 公文分發程式**
-![](Dis.png)(https://xyuanlai.github.io/DistributeDocument/)
+![](Dis.jpg)(https://xyuanlai.github.io/DistributeDocument/)
 **3. 飛手支援服務系統App (協同開發)**
-![](FH.png)(https://xyuanlai.github.io/OKBus/)
+![](FH.jpg)(https://xyuanlai.github.io/OKBus/)
 **4. OK Bus遊覽車整合服務App (協同開發)**
-![](OKBus.png)(https://play.google.com/store/apps/details?id=nchu.mis.okbus_beta)
+![](OKBus.jpg)(https://play.google.com/store/apps/details?id=nchu.mis.okbus_beta)
 **5. 愛養生App (協同開發)**
-![](Health.png)(https://play.google.com/store/apps/details?id=com.ksi.ihealth) 
+![](Health.jpg)(https://play.google.com/store/apps/details?id=com.ksi.ihealth) 
  
 ## Education
 ### 國立中山大學 (National Sun Yat-sen University)
