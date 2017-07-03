@@ -3,27 +3,20 @@
 
 我喜歡解決問題，更熱愛找出最棒的方法去解決它!
 
-白天時為成為優秀的程式設計師努力，  
-黑夜則出沒於大街小巷之中。
+白天時為成為優秀的程式設計師努力，黑夜則遊走於大街小巷之中。
 
-更多的關於我可以到 [越來越少用的臉書](https://www.facebook.com/kevinlaiable)  
-  
 ## Projects
 **1. 視覺化程式學習網站**
-
+![](LPO.png)(https://xyuanlai.github.io/LearnProgrammingOnline/)
 **2. 公文分發程式**
-
-**3. 飛手支援服務系統App**
-
-**4. OK Bus遊覽車整合服務App**
-
-**5. 愛養生App**
-
-**6. 電腦記帳程式**
-
-**7. 體感軍用手語學習程式**
-  
-  
+![](Dis.png)(https://xyuanlai.github.io/DistributeDocument/)
+**3. 飛手支援服務系統App (協同開發)**
+![](FH.png)(https://xyuanlai.github.io/OKBus/)
+**4. OK Bus遊覽車整合服務App (協同開發)**
+![](OKBus.png)(https://play.google.com/store/apps/details?id=nchu.mis.okbus_beta)
+**5. 愛養生App (協同開發)**
+![](Health.png)(https://play.google.com/store/apps/details?id=com.ksi.ihealth) 
+ 
 ## Education
 ### 國立中山大學 (National Sun Yat-sen University)
 資訊管理學系 (Department of Informantion Management)  
